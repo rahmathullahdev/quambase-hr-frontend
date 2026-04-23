@@ -1,0 +1,11 @@
+/* Login Page Custom Styles */
+
+.login-hero-bg {
+  transition: transform 10s ease-out;
+}
+
+.login-panel-bg {
+  background-image: radial-gradient(#e2e8f0 1px, transparent 1px);
+  background-size: 40px 40px;
+  font-family: '"Plus Jakarta Sans", "Inter", system-ui, sans-serif';
+}
